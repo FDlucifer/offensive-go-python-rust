@@ -43,7 +43,7 @@ def create_vigenere_table():
                 table[row].append(chr((row+65) + column - 26))
             else:
                 # after first row, each letter will shift left by one position compared to row above it
-                table[row].append(chr((row+65)+column))
+                table[row].append(chr((row+65) + column))
 
     # printing the table
     # for row in table:
@@ -64,7 +64,7 @@ def cipher_encryption(message, mapped_key):
             encrypted_text += " "
         else:
             # getting element at specific index of table
-            row = ord(message[i])-65
+            row = ord(message[i]) - 65
             column = ord(mapped_key[i]) - 65
             encrypted_text += table[row][column]
 
