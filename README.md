@@ -9,6 +9,8 @@
  - Auto Arrange Your Files Using This Python Script
  - Arp Spoofer
  - File Interceptor
+ - MAC Changer
+ - Network Scanner
  - 
 
 ## offensive rust
