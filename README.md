@@ -11,6 +11,9 @@
  - File Interceptor
  - MAC Changer
  - Network Scanner
+ - Packet Sniffer
+ - tcp Port Scanner
+ - File and Directory Finder
  - 
 
 ## offensive rust
