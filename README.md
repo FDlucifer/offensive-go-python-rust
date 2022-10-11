@@ -2,6 +2,9 @@
 
 ## golang basic
 
+ - Two Sum Problem
+ - 
+
 ## offensive golang
 
 ## offensive python
@@ -14,7 +17,16 @@
  - Packet Sniffer
  - tcp Port Scanner
  - File and Directory Finder
- - 
+ - Hash Generator
+ - Password Generator
+ - Keylogger
+ - Email finder
+ - Get Computer Info
+ - get domain information
+ - Linux Password Cracker
+ - Zip Password Cracker
+ - FTP Brute Force
+ - SYN Flooder
 
 ## offensive rust
 
