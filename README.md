@@ -3,6 +3,8 @@
 ## golang basic
 
  - Two Sum Problem
+ - Pattern Matching & Maps
+ - Matrix Traversal & Modulo Operator
  - 
 
 ## offensive golang
