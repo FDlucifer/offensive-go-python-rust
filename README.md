@@ -5,9 +5,12 @@
  - Two Sum Problem
  - Pattern Matching & Maps
  - Matrix Traversal & Modulo Operator
+ - Pattern Matching & Maps Passport Processing
  - 
 
 ## offensive golang
+
+ - 
 
 ## offensive python
 
@@ -32,6 +35,8 @@
 
 ## offensive rust
 
+ - 
+
 ## Ciphers using Python
 
 scripts collected from [VoxelPixel](https://github.com/VoxelPixel)
@@ -48,3 +53,5 @@ scripts collected from [VoxelPixel](https://github.com/VoxelPixel)
  - ROT47
  - Vigenere
  - XOR Cipher
+
+# More Code coming soon......
