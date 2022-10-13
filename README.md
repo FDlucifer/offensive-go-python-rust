@@ -6,6 +6,9 @@
  - Pattern Matching & Maps
  - Matrix Traversal & Modulo Operator
  - Pattern Matching & Maps Passport Processing
+ - Binary Search
+ - Unique Characters
+ - DAG & Depth First Search
  - 
 
 ## offensive golang
