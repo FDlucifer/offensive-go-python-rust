@@ -12,6 +12,9 @@
  - Boyer-Moore String Search
  - Dependency Injection
  - Benchmark
+ - Concurrency & WaitGroup
+ - Concurrency using go routines and Channels
+ - Context
  - 
 
 ## offensive golang
