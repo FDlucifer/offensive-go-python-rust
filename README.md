@@ -2,6 +2,8 @@
 
 ## golang basic
 
+from [Golang Cafe](https://www.youtube.com/c/GolangCafe)
+
  - Two Sum Problem
  - Pattern Matching & Maps
  - Matrix Traversal & Modulo Operator
@@ -48,6 +50,8 @@
  - SYN Flooder
 
 ## offensive rust
+
+from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY 25
 
  - 
 
