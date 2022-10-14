@@ -9,6 +9,9 @@
  - Binary Search
  - Unique Characters
  - DAG & Depth First Search
+ - Boyer-Moore String Search
+ - Dependency Injection
+ - Benchmark
  - 
 
 ## offensive golang
