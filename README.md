@@ -15,6 +15,11 @@
  - Concurrency & WaitGroup
  - Concurrency using go routines and Channels
  - Context
+ - CSV Parser
+ - Debugging with Delve
+ - Fan-In Fan-Out Pattern
+ - Functional Options Pattern
+ - GOB Encoding
  - 
 
 ## offensive golang
