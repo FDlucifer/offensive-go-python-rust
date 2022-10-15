@@ -34,6 +34,10 @@ from [Golang Cafe](https://www.youtube.com/c/GolangCafe)
  - JSON Encoding
  - JWT Authentication
  - Maps
+ - Modules
+ - Pointers
+ - Profiling
+ - Protocol Buffers
  - 
 
 ## offensive golang
