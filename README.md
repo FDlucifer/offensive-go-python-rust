@@ -22,6 +22,10 @@ from [Golang Cafe](https://www.youtube.com/c/GolangCafe)
  - Fan-In Fan-Out Pattern
  - Functional Options Pattern
  - GOB Encoding
+ - http RoundTripper
+ - httptest
+ - httptrace
+ - io.MultiReader
  - 
 
 ## offensive golang
