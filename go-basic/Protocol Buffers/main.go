@@ -6,8 +6,9 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/golang/protobuf/proto"
 	"golang.cafe/protobuf/model"
+
+	"github.com/golang/protobuf/proto"
 )
 
 // Protocol Buffers Doc
@@ -50,29 +51,4 @@ func main() {
 		log.Fatal(err)
 	}
 	fmt.Printf("book from protobuf file %+v\n", bookFromFile)
-}
-
-
--- model/book.proto --
-syntax = "proto3";
-
-option go_package = "golang.cafe/protobuf/model";
-
-message Book {
-	int32 Id = 1;
-	string Title = 2;
-	repeated Author Authors = 3;
-	Category Category = 4;
-}
-
-enum Category {
-	Novel = 0;
-	SciFi = 1;
-	Fantasy = 2;
-	Spiritual = 3;
-}
-
-message Author {
-	int32 Id = 1;
-	string Name = 2;
 }
