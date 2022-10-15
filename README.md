@@ -26,6 +26,14 @@ from [Golang Cafe](https://www.youtube.com/c/GolangCafe)
  - httptest
  - httptrace
  - io.MultiReader
+ - io.MultiWriter
+ - io.Reader
+ - io.Seeker
+ - io.TeeReader
+ - io.Writer
+ - JSON Encoding
+ - JWT Authentication
+ - Maps
  - 
 
 ## offensive golang
