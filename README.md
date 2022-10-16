@@ -38,7 +38,13 @@ from [Golang Cafe](https://www.youtube.com/c/GolangCafe)
  - Pointers
  - Profiling
  - Protocol Buffers
- - 
+ - Reflection
+ - REST API Example
+ - Semaphore Pattern
+ - Slices
+ - sync.Mutex
+ - Testing
+ - Zip Archive
 
 ## offensive golang
 
