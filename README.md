@@ -48,6 +48,7 @@ from [Golang Cafe](https://www.youtube.com/c/GolangCafe)
 
 ## offensive golang
 
+ - Simple HTTP Server
  - 
 
 ## offensive python
@@ -71,12 +72,6 @@ from [Golang Cafe](https://www.youtube.com/c/GolangCafe)
  - FTP Brute Force
  - SYN Flooder
 
-## offensive rust
-
-from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY 25
-
- - 
-
 ## Ciphers using Python
 
 scripts collected from [VoxelPixel](https://github.com/VoxelPixel)
@@ -93,5 +88,12 @@ scripts collected from [VoxelPixel](https://github.com/VoxelPixel)
  - ROT47
  - Vigenere
  - XOR Cipher
+
+## basic rust (Adventure Of Code 2015)
+
+from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY 25
+
+ - 
+
 
 # More Code coming soon......
