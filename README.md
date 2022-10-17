@@ -53,7 +53,13 @@ from [Golang Cafe](https://www.youtube.com/c/GolangCafe)
  - Basic Remote Shell Tool
  - Concurrent Echo Server
  - io.Reader & Writer Interface
- - 
+ - Network Credentials Sniffer (ftp)
+ - Network Packet Sniffer
+ - Simple Credential Logger
+ - simple proxy server
+ - Sub-Domain Guesser
+ - Web key Logger
+ - Golang CSV Quiz Game
 
 ## offensive python
 
