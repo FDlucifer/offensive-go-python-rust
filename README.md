@@ -81,6 +81,7 @@ from [Golang Cafe](https://www.youtube.com/c/GolangCafe)
  - Zip Password Cracker
  - FTP Brute Force
  - SYN Flooder
+ - trojan in python (bind shell)
 
 ## Ciphers using Python
 
