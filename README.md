@@ -49,6 +49,10 @@ from [Golang Cafe](https://www.youtube.com/c/GolangCafe)
 ## offensive golang
 
  - Simple HTTP Server
+ - Advanced Port Scanner
+ - Basic Remote Shell Tool
+ - Concurrent Echo Server
+ - io.Reader & Writer Interface
  - 
 
 ## offensive python
