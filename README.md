@@ -104,7 +104,32 @@ scripts collected from [VoxelPixel](https://github.com/VoxelPixel)
 
 from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY 25
 
- - 
-
+ - Day 0:  Introduction to Rust [AOC2015 in Rust]
+ - Day 1： Not Quite Lisp [AOC2015 in Rust]
+ - Day 2： I Was Told There Would Be No Math [AOC2015 in Rust]
+ - Day 3： Perfectly Spherical Houses in a Vacuum [AOC2015 in Rust]
+ - Day 4： The Ideal Stocking Stuffer [AOC2015 in Rust]
+ - Day 5： Doesn't He Have Intern-Elves For This？ [AOC2015 in Rust]
+ - Day 6： Probably a Fire Hazard [AOC2015 in Rust]
+ - Day 7： Some Assembly Required [AOC2015 in Rust]
+ - Day 8： Matchsticks [AOC2015 in Rust]
+ - Day 9： All in a Single Night [AOC2015 in Rust]
+ - Day 10： Elves Look, Elves Say [AOC2015 in Rust]
+ - Day 11： Corporate Policy [AOC2015 in Rust]
+ - Day 12： JSAbacusFramework.io [AOC2015 in Rust]
+ - Day 13： Knights of the Dinner Table [AOC2015 in Rust]
+ - Day 14： Reindeer Olympics [AOC2015 in Rust]
+ - Day 15： Science for Hungry People [AOC2015 in Rust]
+ - Day 16： Aunt Sue [AOC2015 in Rust]
+ - Day 17： No Such Thing as Too Much [AOC2015 in Rust]
+ - Day 18： Like a GIF For Your Yard [AOC2015 in Rust]
+ - Day 19： Medicine for Rudolph [AOC2015 in Rust]
+ - Day 20： Infinite Elves and Infinite Houses [AOC2015 in Rust]
+ - Day 21： RPG Simulator 20XX [AOC2015 in Rust]
+ - Day 22： Wizard Simulator 20XX [AOC2015 in Rust]
+ - Day 23： Opening the Turing Lock [AOC2015 in Rust]
+ - Day 24： It Hangs in the Balance [AOC2015 in Rust]
+ - Day 25： Let It Snow [AOC2015 in Rust]
+ - Unwrapping nested for loops into chained expressions [AOC2015 in Rust]
 
 # More Code coming soon......
