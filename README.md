@@ -82,6 +82,7 @@ from [Golang Cafe](https://www.youtube.com/c/GolangCafe)
  - FTP Brute Force
  - SYN Flooder
  - trojan in python (bind shell)
+ - markov 1024 - leetcode
 
 ## Ciphers using Python
 
