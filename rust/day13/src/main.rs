@@ -51,7 +51,6 @@ impl From<&str> for Party {
             );
             p.happiness_map.insert((p1.clone(), p2), happiness);
             p.people.insert(p1);
-
         }
         p
     }
