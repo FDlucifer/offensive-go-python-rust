@@ -18,12 +18,12 @@ def do(nums, ops):
         # print(f'{path=}, {now=}')
         if now == target and len(path)==3:
             print('found', path, s)
-            return 
-        
+            return
+
         for op in ops:
             if op not in gg:
                 gg.add(op)
-                        
+
                 for i in range(len(nums)):
                     if not used[i]:
                         used[i] = True

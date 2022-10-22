@@ -1,7 +1,8 @@
 # 将这里的数字牌和符号牌改成自己所有的即可
 # https://leetcode.cn/circle/discuss/OV9VUd/
-numbers = [2, 2, 12, 13, 0, 6, 2, 35]
-operators = ["+", "|", "&"]
+
+numbers = [5, 9, 5, 0, 35, 2, 2, 2, 6, 0, 2, 12, 13]
+operators = ["+", "|", "&", "+"]
 
 
 ok = []
