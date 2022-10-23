@@ -67,7 +67,7 @@ fn main() {
             println!("Part 1: {}", maybe_sue.id);
         }
         if sue.matches2(maybe_sue.clone()) {
-            println!("Part 1: {}", maybe_sue.id);
+            println!("Part 2: {}", maybe_sue.id);
         }
     }
 }
