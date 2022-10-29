@@ -47,8 +47,8 @@ struct Item {
 
 fn main() {
     let boss = Character {
-        hit_points: 109,
-        damage: 8,
+        hit_points: 103,
+        damage: 9,
         armor: 2,
         cost: 0,
     };

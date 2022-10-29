@@ -83,6 +83,7 @@ from [Golang Cafe](https://www.youtube.com/c/GolangCafe)
  - SYN Flooder
  - trojan in python (bind shell)
  - markov 1024 - leetcode
+ - Coding a Ransomware (encryption)
 
 ## Ciphers using Python
 
