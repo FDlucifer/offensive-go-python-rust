@@ -138,6 +138,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
 
  - Day 1: No Time for a Taxicab
  - Day 2: Bathroom Security
+ - Day 3: Squares With Three Sides
  - 
 
 # More Code coming soon......
