@@ -1,31 +1,13 @@
 package main
 
 import (
-	"bytes"
 	"crypto/md5"
 	"fmt"
 	"io/ioutil"
-	"os/exec"
 	"regexp"
 	"strconv"
 	"strings"
 )
-
-func CopyToClipboard(text string) error {
-	command := exec.Command("pbcopy")
-	command.Stdin = bytes.NewReader([]byte(text))
-
-	if err := command.Start(); err != nil {
-		return fmt.Errorf("error starting pbcopy command: %w", err)
-	}
-
-	err := command.Wait()
-	if err != nil {
-		return fmt.Errorf("error running pbcopy %w", err)
-	}
-
-	return nil
-}
 
 func ToInt(arg interface{}) int {
 	var val int
@@ -46,11 +28,9 @@ func main() {
 	buf, _ := ioutil.ReadFile("input.txt")
 
 	ans := md5Chess(string(buf), 1)
-	CopyToClipboard(fmt.Sprintf("%v", ans))
 	fmt.Println("Part1: ", ans)
 
 	ans1 := md5Chess(string(buf), 2)
-	CopyToClipboard(fmt.Sprintf("%v", ans1))
 	fmt.Println("Part2: ", ans1)
 }
 
