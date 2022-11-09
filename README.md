@@ -145,4 +145,10 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 7: Internet Protocol Version 7
  - 
 
+## Notes From Leetcode with Python && Golang
+ - 764. 最大加号标志
+ - 864. 获取所有钥匙的最短路径
+ - 1684. 统计一致字符串的数目
+ - 
+
 # More Code coming soon......
