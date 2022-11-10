@@ -151,9 +151,10 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1684 统计一致字符串的数目
  - meituan-001 小美的用户名
  - meituan-003 小美的跑腿代购
- - meituan-002. 小美的仓库整理
+ - meituan-002 小美的仓库整理
  - 1704 判断字符串的两半是否相似
  - meituan-006 小团的神秘暗号
+ - meituan-005 小美的区域会议
  - 
 
 # More Code coming soon......
