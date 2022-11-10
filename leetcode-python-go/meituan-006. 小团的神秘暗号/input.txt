@@ -1,0 +1,6 @@
+输入：
+10
+MMATSATMMT
+
+输出
+SATM
