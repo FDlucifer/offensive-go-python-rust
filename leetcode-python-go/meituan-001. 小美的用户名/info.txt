@@ -1,0 +1,14 @@
+输入：
+5
+Ooook
+Hhhh666
+ABCD
+Meituan
+6666
+
+输出：
+Wrong
+Accept
+Wrong
+Wrong
+Wrong
