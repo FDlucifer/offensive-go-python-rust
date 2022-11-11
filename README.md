@@ -157,6 +157,8 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - meituan-005 小美的区域会议
  - meituan-004 小团的复制粘贴
  - meituan-007 小团的选调计划
+ - 790 多米诺和托米诺平铺
+ - meituan-008 小团无路可逃
  - 
 
 # More Code coming soon......
