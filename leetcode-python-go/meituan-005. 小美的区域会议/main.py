@@ -20,7 +20,7 @@ def main():
         ans += dfs(i, 0)
         ans %= p
     print(ans)
-    
+
 
 if __name__ == "__main__":
     main()

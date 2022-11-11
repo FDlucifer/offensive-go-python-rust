@@ -156,6 +156,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - meituan-006 小团的神秘暗号
  - meituan-005 小美的区域会议
  - meituan-004 小团的复制粘贴
+ - meituan-007 小团的选调计划
  - 
 
 # More Code coming soon......
