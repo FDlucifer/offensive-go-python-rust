@@ -162,6 +162,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 791 自定义字符串排序
  - meituan-009 小团的装饰物
  - meituan-010 小团的默契游戏
+ - 1545 找出第 N 个二进制字符串中的第 K 位
  - 
 
 # More Code coming soon......
