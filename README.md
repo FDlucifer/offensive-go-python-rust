@@ -159,6 +159,9 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - meituan-007 小团的选调计划
  - 790 多米诺和托米诺平铺
  - meituan-008 小团无路可逃
+ - 791 自定义字符串排序
+ - meituan-009 小团的装饰物
+ - meituan-010 小团的默契游戏
  - 
 
 # More Code coming soon......
