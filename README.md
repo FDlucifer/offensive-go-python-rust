@@ -163,6 +163,10 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - meituan-009 小团的装饰物
  - meituan-010 小团的默契游戏
  - 1545 找出第 N 个二进制字符串中的第 K 位
+ - 805 数组的均值分割
+ - meituan-011 搭配出售
+ - meituan-013 偏爱字母
+ - meituan-012 小美的书架
  - 
 
 # More Code coming soon......
