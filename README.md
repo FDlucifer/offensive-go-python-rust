@@ -170,6 +170,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1710 卡车上的最大单元数
  - meituan-014 小团的 AB 队
  - meituan-015 十字路口
+ - 775 全局倒置与局部倒置
  - 
 
 # More Code coming soon......
