@@ -1,5 +1,3 @@
-from typing import List
-
 poured = 2
 query_glass = 1
 query_row = 1
