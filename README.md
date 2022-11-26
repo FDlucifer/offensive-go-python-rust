@@ -181,6 +181,8 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 795 区间子数组个数
  - 809 情感丰富的文字
  - 704 二分查找
+ - 882 细分图中的可到达节点
+ - 977 有序数组的平方
  - 
 
 # More Code coming soon......
