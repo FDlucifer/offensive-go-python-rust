@@ -187,6 +187,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 813 最大平均值和的分组
  - 1758 生成交替二进制字符串的最少操作数
  - 895 最大频率栈
+ - 567 字符串的排列
  - 
 
 # More Code coming soon......
