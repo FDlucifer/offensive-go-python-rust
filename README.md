@@ -193,6 +193,8 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 695 岛屿的最大面积
  - 1796 字符串中第二大的数字
  - 116 填充每个节点的下一个右侧节点指针
+ - 542 01 矩阵
+ - 994 腐烂的橘子
  - 
 
 # More Code coming soon......
