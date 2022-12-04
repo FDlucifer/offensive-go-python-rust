@@ -195,6 +195,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 116 填充每个节点的下一个右侧节点指针
  - 542 01 矩阵
  - 994 腐烂的橘子
+ - 1774 最接近目标价格的甜点成本
  - 
 
 # More Code coming soon......
