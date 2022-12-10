@@ -196,6 +196,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 542 01 矩阵
  - 994 腐烂的橘子
  - 1774 最接近目标价格的甜点成本
+ - 1691 堆叠长方体的最大高度
  - 
 
 # More Code coming soon......
