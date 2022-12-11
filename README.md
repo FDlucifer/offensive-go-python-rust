@@ -197,6 +197,9 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 994 腐烂的橘子
  - 1774 最接近目标价格的甜点成本
  - 1691 堆叠长方体的最大高度
+ - 1827 最少操作使数组递增
+ - 844 比较含退格的字符串
+ - 986 区间列表的交集
  - 
 
 # More Code coming soon......
