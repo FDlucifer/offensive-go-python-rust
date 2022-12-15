@@ -203,6 +203,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1697 检查边长度限制的路径是否存在
  - 117 填充每个节点的下一个右侧节点指针 II
  - 572 另一棵树的子树
+ - 1945 字符串转化后的各位数字之和
  - 
 
 # More Code coming soon......
