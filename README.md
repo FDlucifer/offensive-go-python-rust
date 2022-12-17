@@ -206,6 +206,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1945 字符串转化后的各位数字之和
  - 1764 通过连接另一个数组的子数组得到一个数组
  - 797 所有可能的路径
+ - 1703 得到连续 K 个 1 的最少相邻交换次数
  - 
 
 # More Code coming soon......
