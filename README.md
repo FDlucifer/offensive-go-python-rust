@@ -204,6 +204,8 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 117 填充每个节点的下一个右侧节点指针 II
  - 572 另一棵树的子树
  - 1945 字符串转化后的各位数字之和
+ - 1764 通过连接另一个数组的子数组得到一个数组
+ - 797 所有可能的路径
  - 
 
 # More Code coming soon......
