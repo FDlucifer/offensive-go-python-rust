@@ -214,6 +214,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1814 统计一个数组中好对子的数目
  - 1825 求出 MK 平均值
  - 1824 最少侧跳次数
+ - 1815 得到新鲜甜甜圈的最多组数
  - 
 
 # More Code coming soon......
