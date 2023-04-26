@@ -143,7 +143,10 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 5: How About a Nice Game of Chess?
  - Day 6: Signals and Noise
  - Day 7: Internet Protocol Version 7
- - 
+ - Day 8: Two-Factor Authentication
+ - Day 9: Explosives in Cyberspace
+ - Day 10: Balance Bots
+ -
 
 ## Notes From Leetcode with Python && Golang
  - 764 最大加号标志
@@ -223,6 +226,6 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1139 最大的以 1 为边界的正方形
  - 2347 最好的扑克手牌
  - 1326 灌溉花园的最少水龙头数目
- - 
+ -
 
 # More Code coming soon......
