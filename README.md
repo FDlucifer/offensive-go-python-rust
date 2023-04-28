@@ -154,6 +154,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 16: Dragon Checksum
  - Day 17: Two Steps Forward
  - Day 18: Like a Rogue
+ - Day 19: An Elephant Named Joseph
  -
 
 ## Notes From Leetcode with Python && Golang

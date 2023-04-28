@@ -44,7 +44,7 @@ func main() {
 	fmt.Println("Output:", ans)
 }
 
-// this could be sped up by memoizing rows to their next row, or their counts
+// this could be speed up by memoizing rows to their next row, or their counts
 // but this is more than fast enough... ~3s to run both parts
 func likeARogue(input string, numRows int) int {
 	lastRow := "." + input + "."
