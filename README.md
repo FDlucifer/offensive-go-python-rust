@@ -160,6 +160,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 21: Scrambled Letters and Hash
  - Day 22: Grid Computing
  - Day 23: Safe Cracking
+ - Day 24: Air Duct Spelunking
  -
 
 ## Notes From Leetcode with Python && Golang
