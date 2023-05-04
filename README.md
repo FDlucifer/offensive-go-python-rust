@@ -241,6 +241,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1139 最大的以 1 为边界的正方形
  - 2347 最好的扑克手牌
  - 1326 灌溉花园的最少水龙头数目
+ - 2106 摘水果
  -
 
 # More Code coming soon......
