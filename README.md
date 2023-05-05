@@ -163,6 +163,11 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 24: Air Duct Spelunking
  - Day 25: Clock Signal
 
+## python & rust (Adventure Of Code 2022)
+
+ - Day 1: Calorie Counting
+ -
+
 ## Notes From Leetcode with Python && Golang
  - 764 最大加号标志
  - 864 获取所有钥匙的最短路径
