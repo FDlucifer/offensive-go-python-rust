@@ -1,0 +1,1 @@
+D:\1.program\python\python2\offensive-go-python-rust\golang\AOC2022\DAY1\target\debug\DAY1.exe: D:\1.program\python\python2\offensive-go-python-rust\golang\AOC2022\DAY1\input.txt D:\1.program\python\python2\offensive-go-python-rust\golang\AOC2022\DAY1\src\main.rs
