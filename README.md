@@ -248,6 +248,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1326 灌溉花园的最少水龙头数目
  - 2106 摘水果
  - 2432 处理用时最长的那个任务的员工
+ - 1419 数青蛙
  -
 
 # More Code coming soon......
