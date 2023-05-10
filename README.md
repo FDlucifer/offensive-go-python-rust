@@ -85,6 +85,7 @@ from [Golang Cafe](https://www.youtube.com/c/GolangCafe)
  - markov 1024 - leetcode
  - Coding a Ransomware (encryption)
  - black hole algorithm
+ - C2 Backdoor
 
 ## Ciphers using Python
 
