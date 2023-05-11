@@ -170,6 +170,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 2: Rock Paper Scissors
  - Day 3: Rucksack Reorganization
  - Day 4: Camp Cleanup
+ - Day 5: Supply Stacks
  -
 
 ## Notes From Leetcode with Python && Golang
@@ -256,6 +257,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 2023-spring 符文储备
  - 2023-spring 城墙防线
  - 1263 推箱子
+ - 1330 翻转子数组得到最大的数组值
  -
 
 # More Code coming soon......
