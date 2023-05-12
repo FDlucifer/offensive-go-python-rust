@@ -172,6 +172,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 4: Camp Cleanup
  - Day 5: Supply Stacks
  - Day 6: Tuning Trouble
+ - Day 7: No Space Left On Device
  -
 
 ## Notes From Leetcode with Python && Golang
