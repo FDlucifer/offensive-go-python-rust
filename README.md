@@ -262,6 +262,9 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 2023-spring 城墙防线
  - 1263 推箱子
  - 1330 翻转子数组得到最大的数组值
+ - 6367 矩阵中的和
+ - 6369 最大或值
+ - 6423 英雄的力量
  -
 
 # More Code coming soon......
