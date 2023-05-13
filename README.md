@@ -174,6 +174,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 6: Tuning Trouble
  - Day 7: No Space Left On Device
  - Day 8: Treetop Tree House
+ - Day 9: Rope Bridge
  -
 
 ## Notes From Leetcode with Python && Golang
