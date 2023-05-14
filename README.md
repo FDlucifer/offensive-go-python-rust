@@ -265,6 +265,9 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6367 矩阵中的和
  - 6369 最大或值
  - 6423 英雄的力量
+ - 6430 找出转圈游戏输家
+ - 6431 相邻值的按位异或
+ - 6433 矩阵中移动的最大次数
  -
 
 # More Code coming soon......
