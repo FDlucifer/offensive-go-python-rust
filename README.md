@@ -184,6 +184,8 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 14: Regolith Reservoir
  - Day 15: Beacon Exclusion Zone
  - Day 16: Proboscidea Volcanium
+ - Day 17: Pyroclastic Flow
+ - Day 18: Boiling Boulders
  -
 
 ## Notes From Leetcode with Python && Golang
