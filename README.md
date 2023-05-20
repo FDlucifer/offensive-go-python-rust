@@ -166,6 +166,11 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 24: Air Duct Spelunking
  - Day 25: Clock Signal
 
+## python (Adventure Of Code 2021)
+
+ - Day 1: Sonar Sweep
+ -
+
 ## python & rust (Adventure Of Code 2022)
 
  - Day 1: Calorie Counting
@@ -189,7 +194,10 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 19: Not Enough Minerals
  - Day 20: Grove Positioning System
  - Day 21: Monkey Math
- -
+ - Day 22: Monkey Map
+ - Day 23: Unstable Diffusion
+ - Day 24: Blizzard Basin
+ - Day 25: Full of Hot Air
 
 ## Notes From Leetcode with Python && Golang
  - 764 最大加号标志
