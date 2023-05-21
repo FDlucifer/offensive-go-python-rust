@@ -290,6 +290,9 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6430 找出转圈游戏输家
  - 6431 相邻值的按位异或
  - 6433 矩阵中移动的最大次数
+ - 6454 字典序最小回文串
+ - 6441 求一个整数的惩罚数
+ - 6442 修改图中的边权
  -
 
 # More Code coming soon......
