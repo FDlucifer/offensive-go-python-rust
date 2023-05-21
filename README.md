@@ -169,6 +169,8 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
 ## python (Adventure Of Code 2021)
 
  - Day 1: Sonar Sweep
+ - Day 2: Dive!
+ - Day 3: Binary Diagnostic
  -
 
 ## python & rust (Adventure Of Code 2022)
