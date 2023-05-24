@@ -174,6 +174,8 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 4: Giant Squid
  - Day 5: Hydrothermal Venture
  - Day 6: Lanternfish
+ - Day 7: The Treachery of Whales
+ - Day 8: Seven Segment Search
  -
 
 ## python & rust (Adventure Of Code 2022)
@@ -298,6 +300,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6454 字典序最小回文串
  - 6441 求一个整数的惩罚数
  - 6442 修改图中的边权
+ - 1377 T 秒后青蛙的位置
  -
 
 # More Code coming soon......
