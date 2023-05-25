@@ -176,6 +176,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 6: Lanternfish
  - Day 7: The Treachery of Whales
  - Day 8: Seven Segment Search
+ - Day 9: Smoke Basin
  -
 
 ## python & rust (Adventure Of Code 2022)
