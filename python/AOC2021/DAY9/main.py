@@ -36,8 +36,7 @@ for h in range(9):
                 if any([(x, y) in s for s in basins]):
                     continue
                 touch = [
-                    s
-                    for s in basins
+                    s for s in basins
                     if any([(nx, ny) in s for nx, ny in get_neigh((x, y))])
                 ]
                 if len(touch) == 1:
