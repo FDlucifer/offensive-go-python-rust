@@ -180,6 +180,8 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 10: Syntax Scoring
  - Day 11: Dumbo Octopus
  - Day 12: Passage Pathing
+ - Day 13: Transparent Origami
+ - Day 14: Extended Polymerization
  -
 
 ## python & rust (Adventure Of Code 2022)
