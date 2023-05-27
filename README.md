@@ -179,6 +179,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 9: Smoke Basin
  - Day 10: Syntax Scoring
  - Day 11: Dumbo Octopus
+ - Day 12: Passage Pathing
  -
 
 ## python & rust (Adventure Of Code 2022)
