@@ -310,6 +310,9 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1093 大样本统计
  - 6395 购买两块巧克力
  - 6394 字符串中的额外字符
+ - 6440 对角线上不同值的数量差
+ - 6455 使所有字符相等的最小成本
+ - 6456 矩阵中严格递增的单元格数
  -
 
 # More Code coming soon......
