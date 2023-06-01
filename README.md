@@ -182,6 +182,8 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 12: Passage Pathing
  - Day 13: Transparent Origami
  - Day 14: Extended Polymerization
+ - Day 15: Chiton
+ - Day 16: Packet Decoder
  -
 
 ## python & rust (Adventure Of Code 2022)
