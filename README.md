@@ -316,6 +316,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6440 对角线上不同值的数量差
  - 6455 使所有字符相等的最小成本
  - 6456 矩阵中严格递增的单元格数
+ - 1156 单字符重复子串的最大长度
  -
 
 # More Code coming soon......
