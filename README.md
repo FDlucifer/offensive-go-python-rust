@@ -317,6 +317,8 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6455 使所有字符相等的最小成本
  - 6456 矩阵中严格递增的单元格数
  - 1156 单字符重复子串的最大长度
+ - 6424 半有序排列
+ - 2465 不同的平均值数目
  -
 
 # More Code coming soon......

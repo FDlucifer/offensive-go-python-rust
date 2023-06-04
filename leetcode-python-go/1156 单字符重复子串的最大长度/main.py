@@ -23,7 +23,7 @@ class Solution:
 
 
 s = Solution()
-text = "aaabbaaa"
+text = "babbab"
 print(s.maxRepOpt1(text))
 # text = "abbabaabababaaabbaaa"
 # 5
