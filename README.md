@@ -186,6 +186,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 16: Packet Decoder
  - Day 17: Trick Shot
  - Day 18: Snailfish
+ - Day 19: Beacon Scanner
  -
 
 ## python & rust (Adventure Of Code 2022)
@@ -321,6 +322,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6424 半有序排列
  - 2465 不同的平均值数目
  - 2460 对数组执行操作
+ - 2352 相等行列对
  -
 
 # More Code coming soon......
