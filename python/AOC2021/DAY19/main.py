@@ -1,7 +1,6 @@
 import sys
 from collections import Counter
 import json
-import math
 
 with open(sys.argv[1], "r") as f:
     data = f.read().strip()
