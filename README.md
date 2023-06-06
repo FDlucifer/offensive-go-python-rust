@@ -187,6 +187,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 17: Trick Shot
  - Day 18: Snailfish
  - Day 19: Beacon Scanner
+ - Day 20: Trench Map
  -
 
 ## python & rust (Adventure Of Code 2022)
