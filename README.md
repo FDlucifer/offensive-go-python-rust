@@ -329,6 +329,9 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 2352 相等行列对
  - 2611 老鼠和奶酪
  - 1240 铺瓷砖
+ - 1170 比较字符串最小字母出现频次
+ - 6425 找到最长的半重复子字符串
+ - 1171 从链表中删去总和值为零的连续节点
  -
 
 # More Code coming soon......
