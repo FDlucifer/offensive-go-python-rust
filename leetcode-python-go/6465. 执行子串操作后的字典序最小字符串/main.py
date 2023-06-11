@@ -15,5 +15,5 @@ class Solution:
 
 
 s1 = Solution()
-s = "aab"
+s = "aa"
 print(s1.smallestString(s))
