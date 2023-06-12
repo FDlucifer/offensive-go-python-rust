@@ -166,6 +166,11 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 24: Air Duct Spelunking
  - Day 25: Clock Signal
 
+## python (Adventure Of Code 2020)
+
+ - Day 1: Report Repair
+ -
+
 ## python (Adventure Of Code 2021)
 
  - Day 1: Sonar Sweep
@@ -192,7 +197,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 22: Reactor Reboot
  - Day 23: Amphipod
  - Day 24: Arithmetic Logic Unit
- -
+ - Day 25: Sea Cucumber
 
 ## python & rust (Adventure Of Code 2022)
 
