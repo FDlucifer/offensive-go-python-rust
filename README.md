@@ -341,7 +341,8 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6470 既不是最小值也不是最大值
  - 6465 执行子串操作后的字典序最小字符串
  - 2475 数组中不等三元组的数目
- - 2719 统计整数数目
+ - 2719 统计整数数目 (数位dp)
+ - 1012 至少有 1 位重复的数字 (数位dp)
  -
 
 # More Code coming soon......
