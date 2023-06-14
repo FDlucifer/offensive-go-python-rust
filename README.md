@@ -342,16 +342,19 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6465 执行子串操作后的字典序最小字符串
  - 2475 数组中不等三元组的数目
  - 1375 二进制字符串前缀一致的次数
+ - 1177 构建回文串检测
  -
 
-## digits dp
+## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
 
  - 2719 统计整数数目 (数位dp)
  - 1012 至少有 1 位重复的数字 (数位dp)
  - 233 数字 1 的个数 (数位dp)
  - 面试题 17.06. 2出现的次数 (数位dp)
- - 600 不含连续1的非负整数
- -
+ - 600 不含连续1的非负整数 (数位dp)
+ - 902 最大为 N 的数字组合 (数位dp)
+ - 788 旋转数字 (数位dp)
+ - 1397 找到所有好字符串 (数位dp)
 
 
 # More Code coming soon......
