@@ -343,6 +343,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 2475 数组中不等三元组的数目
  - 1375 二进制字符串前缀一致的次数
  - 1177 构建回文串检测
+ - 1494 并行课程 II
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
