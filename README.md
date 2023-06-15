@@ -357,5 +357,17 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 788 旋转数字 (数位dp)
  - 1397 找到所有好字符串 (数位dp)
 
+## 前缀和 (from [灵茶山艾府](https://github.com/EndlessCheng))
+
+ -
+
+## 位运算 (from [灵茶山艾府](https://github.com/EndlessCheng))
+
+ -
+
+## 状态压缩DP (from [灵茶山艾府](https://github.com/EndlessCheng))
+
+ -
+
 
 # More Code coming soon......
