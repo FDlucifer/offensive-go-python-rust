@@ -166,12 +166,12 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 24: Air Duct Spelunking
  - Day 25: Clock Signal
 
-## python (Adventure Of Code 2020)
+## python (Adventure Of Code 2020) from [0xdf's blog](https://0xdf.gitlab.io/adventofcode2020/)
 
  - Day 1: Report Repair
  -
 
-## python (Adventure Of Code 2021)
+## python (Adventure Of Code 2021) from [0xdf's youtube](https://www.youtube.com/playlist?list=PLJt6nPUdQbiTP5ytYYmFMwPXqsysx5OLt)
 
  - Day 1: Sonar Sweep
  - Day 2: Dive!
@@ -199,7 +199,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 24: Arithmetic Logic Unit
  - Day 25: Sea Cucumber
 
-## python & rust (Adventure Of Code 2022)
+## python & rust (Adventure Of Code 2022) from [0xdf's youtube](https://www.youtube.com/playlist?list=PLJt6nPUdQbiTXW_lHJ6d2u8NnsyPaKGeI)
 
  - Day 1: Calorie Counting
  - Day 2: Rock Paper Scissors
@@ -228,6 +228,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 25: Full of Hot Air
 
 ## Notes From Leetcode with Python && Golang
+
  - 764 最大加号标志
  - 864 获取所有钥匙的最短路径
  - 1684 统计一致字符串的数目
