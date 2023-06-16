@@ -344,6 +344,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1375 二进制字符串前缀一致的次数
  - 1177 构建回文串检测
  - 1494 并行课程 II
+ - 2481 分割圆的最少切割次数
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
@@ -357,15 +358,54 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 788 旋转数字 (数位dp)
  - 1397 找到所有好字符串 (数位dp)
 
-## 前缀和 (from [灵茶山艾府](https://github.com/EndlessCheng))
+## 前缀和 (from [灵茶山艾府](https://leetcode.cn/problems/can-make-palindrome-from-substring/solutions/2309725/yi-bu-bu-you-hua-cong-qian-zhui-he-dao-q-yh5p/))
 
  -
 
-## 位运算 (from [灵茶山艾府](https://github.com/EndlessCheng))
+## 位运算 (from [灵茶山艾府](https://leetcode.cn/circle/discuss/CaOJ45/))
+
+ - ![](https://raw.githubusercontent.com/wiki/FDlucifer/FDlucifer.github.io/1686879866-VArRlW-Binar_Fundamentals_00.png)
 
  -
 
-## 状态压缩DP (from [灵茶山艾府](https://github.com/EndlessCheng))
+## 状态压缩DP (from [灵茶山艾府](https://leetcode.cn/problems/parallel-courses-ii/solutions/2310878/zi-ji-zhuang-ya-dpcong-ji-yi-hua-sou-suo-oxwd/))
+
+ -
+
+## 暴力/二分答案/堆 (from [灵茶山艾府](https://leetcode.cn/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/solutions/2286593/san-chong-suan-fa-bao-li-er-fen-da-an-du-k1vd/))
+
+ -
+
+## 第 k 小/大 (from [灵茶山艾府](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/solutions/2286318/jiang-qing-chu-wei-shi-yao-yi-kai-shi-ya-i0dj/))
+
+ -
+
+## 暴力枚举/利用GCD性质 (from [灵茶山艾府](https://leetcode.cn/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/solutions/2241277/liang-chong-fang-fa-bao-li-mei-ju-li-yon-refp/))
+
+ -
+
+
+## 单调栈 (from [灵茶山艾府](https://leetcode.cn/problems/next-greater-node-in-linked-list/solutions/2217563/tu-jie-dan-diao-zhan-liang-chong-fang-fa-v9ab/))
+
+ -
+
+## 二分答案 + 贪心 (from [灵茶山艾府](https://leetcode.cn/problems/minimize-the-maximum-difference-of-pairs/solutions/2216315/er-fen-da-an-tan-xin-by-endlesscheng-dlxv/))
+
+ -
+
+## 二分答案 (from [灵茶山艾府](https://leetcode.cn/problems/minimum-time-to-repair-cars/solutions/2177199/er-fen-da-an-pythonjavacgo-by-endlessche-keqf/))
+
+ -
+
+## 2022 年周赛题目总结 上 (from [灵茶山艾府](https://leetcode.cn/circle/discuss/G0n5iY/))
+
+ -
+
+## 2022 年周赛题目总结 下 (from [灵茶山艾府](https://leetcode.cn/circle/discuss/WR1MJP/))
+
+ -
+
+## 中国银联专场竞赛 (from [灵茶山艾府](https://leetcode.cn/circle/discuss/YfxFdF/))
 
  -
 
