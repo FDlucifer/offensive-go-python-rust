@@ -361,6 +361,9 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
 
 ## 前缀和 (from [灵茶山艾府](https://leetcode.cn/problems/can-make-palindrome-from-substring/solutions/2309725/yi-bu-bu-you-hua-cong-qian-zhui-he-dao-q-yh5p/))
 
+ - 1371 每个元音包含偶数次的最长子字符串
+ - 1542 找出最长的超赞子字符串
+ - 1915 最美子字符串的数目
  -
 
 ## 位运算 (from [灵茶山艾府](https://leetcode.cn/circle/discuss/CaOJ45/))
