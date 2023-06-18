@@ -4,7 +4,7 @@ class Solution:
         memo = {0: -1}
         max_length = 0
         for i in range(len(s)):
-            mask ^= (1 << int(s[i]))
+            mask ^= 1 << int(s[i])
             if mask in memo:
                 max_length = max(max_length, i - memo[mask])
             else:

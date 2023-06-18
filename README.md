@@ -346,6 +346,10 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1177 构建回文串检测
  - 1494 并行课程 II
  - 2481 分割圆的最少切割次数
+ - 1254 统计封闭岛屿的数目
+ - 6901 总行驶距离
+ - 6890 找出分区值
+ - 6893 特别的排列
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
