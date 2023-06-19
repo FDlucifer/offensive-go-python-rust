@@ -350,6 +350,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6901 总行驶距离
  - 6890 找出分区值
  - 1262 可被三整除的最大和
+ - 1595 连通两组点的最小成本
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
