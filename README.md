@@ -349,7 +349,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1254 统计封闭岛屿的数目
  - 6901 总行驶距离
  - 6890 找出分区值
- - 6893 特别的排列
+ - 1262 可被三整除的最大和
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
