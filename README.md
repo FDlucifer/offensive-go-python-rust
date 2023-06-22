@@ -371,6 +371,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1371 每个元音包含偶数次的最长子字符串
  - 1542 找出最长的超赞子字符串
  - 1915 最美子字符串的数目
+ - 560 和为 K 的子数组
  -
 
 ## 位运算 (from [灵茶山艾府](https://leetcode.cn/circle/discuss/CaOJ45/))
@@ -406,6 +407,14 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  -
 
 ## 二分答案 (from [灵茶山艾府](https://leetcode.cn/problems/minimum-time-to-repair-cars/solutions/2177199/er-fen-da-an-pythonjavacgo-by-endlessche-keqf/))
+
+ -
+
+## 先外后内/出界标记 (from [灵茶山艾府](https://leetcode.cn/problems/number-of-closed-islands/solutions/2312616/liang-chong-si-lu-xian-wai-hou-nei-chu-j-b1e4/))
+
+ -
+
+## 网格图 DFS (from [灵茶山艾府](https://leetcode.cn/problems/pond-sizes-lcci/solutions/2316704/mo-ban-wang-ge-tu-dfsfu-ti-dan-by-endles-p0n1/))
 
  -
 
