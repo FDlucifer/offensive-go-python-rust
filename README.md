@@ -374,7 +374,9 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1915 最美子字符串的数目
  - 560 和为 K 的子数组
  - 974 和可被 K 整除的子数组
- -
+ - 1590 使数组和能被 P 整除
+ - 523 连续的子数组和
+ - 525 连续数组
 
 ## 位运算 (from [灵茶山艾府](https://leetcode.cn/circle/discuss/CaOJ45/))
 
