@@ -353,6 +353,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1595 连通两组点的最小成本
  - LCP 41 黑白翻转棋
  - 面试题 16.19. 水域大小
+ - 2496 数组中字符串的最大值
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
@@ -372,6 +373,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1542 找出最长的超赞子字符串
  - 1915 最美子字符串的数目
  - 560 和为 K 的子数组
+ - 974 和可被 K 整除的子数组
  -
 
 ## 位运算 (from [灵茶山艾府](https://leetcode.cn/circle/discuss/CaOJ45/))
