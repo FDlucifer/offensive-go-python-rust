@@ -354,6 +354,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - LCP 41 黑白翻转棋
  - 面试题 16.19. 水域大小
  - 2496 数组中字符串的最大值
+ - 1659 最大化网格幸福感
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
