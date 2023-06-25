@@ -356,6 +356,9 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 2496 数组中字符串的最大值
  - 1659 最大化网格幸福感
  - 6895 构造最长的新字符串
+ - 6466 美丽下标对的数目
+ - 6471 得到整数零需要执行的最少操作数
+ - 1401 圆和矩形是否有重叠
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
