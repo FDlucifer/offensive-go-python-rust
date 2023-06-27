@@ -171,7 +171,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 1: Report Repair
  -
 
-## python (Adventure Of Code 2021) from [0xdf's youtube](https://www.youtube.com/playlist?list=PLJt6nPUdQbiTP5ytYYmFMwPXqsysx5OLt) & rust from [Jocelyn Stericker's youtube](https://www.youtube.com/@JocelynStericker/videos)
+## python & rust (Adventure Of Code 2021) from [0xdf's youtube](https://www.youtube.com/playlist?list=PLJt6nPUdQbiTP5ytYYmFMwPXqsysx5OLt) & rust from [Jocelyn Stericker's youtube](https://www.youtube.com/@JocelynStericker/videos)
 
  - Day 1: Sonar Sweep
  - Day 2: Dive!
