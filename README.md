@@ -171,7 +171,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - Day 1: Report Repair
  -
 
-## python (Adventure Of Code 2021) from [0xdf's youtube](https://www.youtube.com/playlist?list=PLJt6nPUdQbiTP5ytYYmFMwPXqsysx5OLt)
+## python (Adventure Of Code 2021) from [0xdf's youtube](https://www.youtube.com/playlist?list=PLJt6nPUdQbiTP5ytYYmFMwPXqsysx5OLt) & rust from [Jocelyn Stericker's youtube](https://www.youtube.com/@JocelynStericker/videos)
 
  - Day 1: Sonar Sweep
  - Day 2: Dive!
@@ -390,6 +390,11 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - ![](https://raw.githubusercontent.com/wiki/FDlucifer/FDlucifer.github.io/1686879866-VArRlW-Binar_Fundamentals_00.png)
 
  -
+
+## 动态规划 (from [灵茶山艾府](https://leetcode.cn/problems/maximum-subarray-sum-with-one-deletion/solutions/2321829/jiao-ni-yi-bu-bu-si-kao-dong-tai-gui-hua-hzz6/))
+
+ -
+
 
 ## 状态压缩DP (from [灵茶山艾府](https://leetcode.cn/problems/parallel-courses-ii/solutions/2310878/zi-ji-zhuang-ya-dpcong-ji-yi-hua-sou-suo-oxwd/))
 
