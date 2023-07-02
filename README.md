@@ -364,6 +364,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 2490 回环句
  - 1 两数之和
  - 2 两数相加
+ - 6909 最长奇偶子数组
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
