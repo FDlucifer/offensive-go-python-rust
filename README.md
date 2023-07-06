@@ -367,6 +367,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6909 最长奇偶子数组
  - 2600 K 件物品的最大和
  - 2178 拆分成最多数目的正偶数之和
+ - 2532 过桥的时间
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
