@@ -1,5 +1,6 @@
 from typing import List
 
+
 class Solution:
     def checkArray(self, nums: List[int], k: int) -> bool:
         n = len(nums)
@@ -18,8 +19,7 @@ class Solution:
         return True
 
 
-
 s = Solution()
-nums = [2,2,3,1,1,0]
+nums = [2, 2, 3, 1, 1, 0]
 k = 3
 print(s.checkArray(nums, k))
