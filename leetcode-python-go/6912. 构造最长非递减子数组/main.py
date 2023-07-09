@@ -2,21 +2,20 @@ from typing import List
 
 
 class Solution:
-    def checkArray(self, nums: List[int], k: int) -> bool:
-        n = len(nums)
-        tag = [0] * (n + 1)
-        sh = 0
-        for i in range(n):
-            sh += tag[i]
-            if nums[i] - sh < 0:
-                return False
-            x = nums[i] - sh
-            if x:
-                if i + k > n:
-                    return False
-                sh += x
-                tag[i + k] -= x
-        return True
+    def maxNonDecreasingLength(self, nums1: List[int], nums2: List[int]) -> int:
+        n = len(nums1)
+        f1 = [1] * n
+        f2 = [1] * n
+        for i in range(1, n):
+            if nums1[i] >= nums1[i - 1]:
+                f1[i] = max(f1[i], f1[i - 1] + 1)
+            if nums1[i] >= nums2[i - 1]:
+                f1[i] = max(f1[i], f2[i - 1] + 1)
+            if nums2[i] >= nums1[i - 1]:
+                f2[i] = max(f2[i], f1[i - 1] + 1)
+            if nums2[i] >= nums2[i - 1]:
+                f2[i] = max(f2[i], f2[i - 1] + 1)
+        return max(f1 + f2)
 
 
 s = Solution()
