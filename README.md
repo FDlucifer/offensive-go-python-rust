@@ -376,6 +376,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6912 构造最长非递减子数组
  - 6919 使数组中的所有元素都等于零
  - 16 最接近的三数之和
+ - 1911 最大子序列交替和
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
