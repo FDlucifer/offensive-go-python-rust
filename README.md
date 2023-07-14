@@ -379,6 +379,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 1911 最大子序列交替和
  - 2544 交替数字和
  - 931 下降路径最小和
+ - 979 在二叉树中分配硬币
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
@@ -449,6 +450,10 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  -
 
 ## 网格图 DFS (from [灵茶山艾府](https://leetcode.cn/problems/pond-sizes-lcci/solutions/2316704/mo-ban-wang-ge-tu-dfsfu-ti-dan-by-endles-p0n1/))
+
+ -
+
+## 贡献法: (from [灵茶山艾府](https://leetcode.cn/problems/distribute-coins-in-binary-tree/solutions/2343262/tu-jie-mei-you-si-lu-jin-lai-miao-dong-p-vrni/))
 
  -
 
