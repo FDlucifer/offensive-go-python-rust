@@ -380,6 +380,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 2544 交替数字和
  - 931 下降路径最小和
  - 979 在二叉树中分配硬币
+ - 18 四数之和
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))

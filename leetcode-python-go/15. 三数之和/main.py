@@ -4,7 +4,6 @@ from typing import List
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         ans = []
-        settmp = {}
         for i in range(len(nums)):
             for j in range(i, len(nums)):
                 for k in range(j, len(nums)):
