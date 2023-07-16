@@ -385,6 +385,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6929 数组的最大美丽值
  - 6924 最长合法子字符串的长度
  - 6927 合法分割的最小下标
+ - 834 树中距离之和
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
