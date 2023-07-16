@@ -386,6 +386,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6924 最长合法子字符串的长度
  - 6927 合法分割的最小下标
  - 834 树中距离之和
+ - 415 字符串相加
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
@@ -460,6 +461,10 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  -
 
 ## 贡献法: (from [灵茶山艾府](https://leetcode.cn/problems/distribute-coins-in-binary-tree/solutions/2343262/tu-jie-mei-you-si-lu-jin-lai-miao-dong-p-vrni/))
+
+ -
+
+## 换根 DP: (from [灵茶山艾府](https://leetcode.cn/problems/sum-of-distances-in-tree/solutions/2345592/tu-jie-yi-zhang-tu-miao-dong-huan-gen-dp-6bgb/))
 
  -
 
