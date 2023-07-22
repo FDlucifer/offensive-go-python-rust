@@ -388,6 +388,11 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 834 树中距离之和
  - 415 字符串相加
  - 860 柠檬水找零
+ - 6930 检查数组是否是好的
+ - 6926 将字符串中的元音字母排序
+ - 6931 访问数组中的位置使分数最大
+ - 6922 将一个数字表示成幂的和的方案数
+ - 42 接雨水
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
