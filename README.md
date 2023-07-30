@@ -396,6 +396,9 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 771 宝石与石头
  - 2208 将数组和减半的最少操作次数
  - 2500 删除每行中的最大值
+ - 6917 满足目标工作时长的员工数目
+ - 6900 统计完全子数组的数目
+ - 6918 包含三个字符串的最短字符串
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
