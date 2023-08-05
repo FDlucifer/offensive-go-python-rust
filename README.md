@@ -400,7 +400,8 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6900 统计完全子数组的数目
  - 6918 包含三个字符串的最短字符串
  - 822 翻转卡片游戏
- -
+ - 6990 取整购买后的账户余额
+ - 6940 在链表中插入最大公约数
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
 
