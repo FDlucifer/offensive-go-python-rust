@@ -404,6 +404,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6940 在链表中插入最大公约数
  - 7022 限制条件下元素之间的最小绝对差
  - 7004 判别首字母缩略词
+ - 8015 距离原点最远的点
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
