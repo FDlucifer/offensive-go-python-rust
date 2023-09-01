@@ -405,6 +405,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 7022 限制条件下元素之间的最小绝对差
  - 7004 判别首字母缩略词
  - 8015 距离原点最远的点
+ - 2511 最多可以摧毁的敌人城堡数目
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
