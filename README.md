@@ -406,6 +406,9 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 7004 判别首字母缩略词
  - 8015 距离原点最远的点
  - 2511 最多可以摧毁的敌人城堡数目
+ - 7021 判断通过操作能否让字符串相等 I
+ - 7005 判断通过操作能否让字符串相等 II
+ - 6989 几乎唯一子数组的最大和
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
