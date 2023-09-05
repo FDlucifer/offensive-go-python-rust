@@ -410,6 +410,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 7005 判断通过操作能否让字符串相等 II
  - 6989 几乎唯一子数组的最大和
  - 7020 统计对称整数的数目
+ - 2605 从两个数字数组里生成最小数字
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
