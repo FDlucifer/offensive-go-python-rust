@@ -411,6 +411,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 6989 几乎唯一子数组的最大和
  - 7020 统计对称整数的数目
  - 2605 从两个数字数组里生成最小数字
+ - 2594 修车的最少时间
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
