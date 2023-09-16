@@ -416,6 +416,8 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 8049 判断能否在给定时间到达单元格
  - LCP 50 宝石补给
  - 198 打家劫舍
+ - 8039 使数组成为递增数组的最少右移次数
+ - 100020 删除数对后的最小数组长度
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
