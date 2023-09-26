@@ -420,6 +420,7 @@ from [0xdf](https://www.youtube.com/c/0xdf0xdf)'s AOC 2015 code from DAY 0 - DAY
  - 100020 删除数对后的最小数组长度
  - LCP 06 拿硬币
  - 2591 将钱分给最多的儿童
+ - 2582 递枕头
  -
 
 ## digits dp template (from [灵茶山艾府](https://github.com/EndlessCheng))
