@@ -1,5 +1,13 @@
 # offensive golang & python & rust scripts collection
 
+## 中文阅读说明
+
+本仓库混合收录语言练习、算法笔记与历史安全研究材料，并非统一维护、可直接部署的产品。阅读时应区分个人练习、第三方教程与未经当前环境验证的历史记录；原有来源署名保留在下文。
+
+一般编程学习可围绕类型、错误处理、边界条件和算法复杂度记录问题。安全相关材料仅适合在明确授权范围内做审阅，不应将历史描述视为当前有效性或可用性的保证。
+
+[中文阅读笔记](READING_NOTES.zh-CN.md) 提供来源核对、学习记录与防御性数据处理建议，不包含操作指南。
+
 ## golang basic
 
 from [Golang Cafe](https://www.youtube.com/c/GolangCafe)
